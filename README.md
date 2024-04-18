@@ -1,4 +1,7 @@
-👋 Hi, I’m Shubhangi
+👋 Hi, I am Shubhangi Kamale. Working as a Wordpress / Web Developer & Designer.
+I am Contributing to various projects in companies with team coordination. 
+I am currently learning frameworks related to CSS, JavaScript, and CMS like WordPress.
+Now I am looking forward to collaborating with a new company for an opportunity to develop my skills.
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
